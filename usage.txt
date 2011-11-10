@@ -1,0 +1,5 @@
+ssh -T git@github.com
+
+then git remote add xxx git@github.com:username/repoistory
+
+git push -u xxx master
