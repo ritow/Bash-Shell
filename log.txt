@@ -1,0 +1,9 @@
+2011年 10月 31日 星期一 23:28:52 CST
+2011年 10月 31日 星期一 23:38:11 CST
+ 23:38:11 up  1:55,  4 users,  load average: 0.05, 0.14, 0.22
+USER     TTY      FROM              LOGIN@   IDLE   JCPU   PCPU WHAT
+ryan     tty7     :0               21:43    1:54m  6:20   0.21s gnome-session -
+ryan     pts/0    :0.0             22:36   14:25   0.81s  0.07s vim ABS_Note.tx
+ryan     pts/1    :0.0             23:21    0.00s  0.38s  0.00s w
+ryan     pts/2    :0.0             23:25    1:06   0.41s  0.41s bash
+ 23:38:11 up  1:55,  4 users,  load average: 0.05, 0.14, 0.22
