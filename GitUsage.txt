@@ -1,0 +1,1 @@
+可以使用git pull/push https:/xxxxx/xx.git这种方式来获取git代码。
