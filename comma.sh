@@ -34,4 +34,8 @@ echo ${testname##*fo} ## *fo表示通配，而##截取最大长度，#表示最�
 echo ${testname#*fo}
 testname=test.tar.gz
 echo ${testname%%.*} ## .*表示统配后缀为.的情况，%%表示最大匹配，%表示最短匹配，另外%表示从尾部开始匹配
-echo ${testname%.*}
+echo ${testname%.*} ## 从末尾处开始匹配不必使用*。比如匹配fo不需要使用*fo，直接使用fo就可以了。
+
+
+
+
